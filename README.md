@@ -17,7 +17,7 @@
     <h2>Tecnologias e Conceitos Utilizados 💻</h2>
     <p>- Marcação HTML5 semântica<br> - CSS Custom Properties<br> - FlexBox<br> - Hover</p>
     <h2>Buscando Evolução 🚀</h2>
-    <p> Este projeto me possibilitou colocar em prática meus conhecimentos básicos sobre HTML e CSS, além de também ter me dado a chance de aprender sobre Hover para efeito de borda e como utilizar a tag no CSS e poder realizar o projeto de forma individual. Por mais que não seja o melhor resultado de todos, estou feliz com a minha evolução e meu desempenho e pretendo aprender cada dia mais sobre o assunto.</p>
+    <p> Este projeto me possibilitou colocar em práticar meus conhecimentos básicos sobre HTML e CSS, além de também ter me dado a chance de aprender sobre Hover para efeito de borda e como utilizar a tag no CSS e poder realizar o projeto de forma individual. Por mais que não seja o melhor resultado de todos, estou feliz com a minha evolução e meu desempenho e pretendo aprender cada dia mais sobre o assunto.</p>
     <h2>Deploy 🔥</h2>
     <p>Para realizar o deploy do meu projeto, utilizei a própria ferramenta de hospedagem do GitHub, o GitHub Pages   <a href="https://github.com/hilaryzoia/Frontend-Mentor-Social-Links-Profile"> Clique Aqui</a> para visualizar o projeto.</p>
 </head>
